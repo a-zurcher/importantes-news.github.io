@@ -1,0 +1,171 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "importantes news",
+    "description": "",
+    "home_page_url": "",
+    "feed_url": "/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alexandre Zürcher"
+    },
+    "items": [
+        {
+            "id": "/crab/",
+            "url": "/crab/",
+            "title": "Beignet de courgettes et fromage",
+            "summary": "CRABCRABCRAB",
+            "content_html": "CRABCRABCRAB",
+            "image": "/media/posts/14/007-Croquettes-courgette.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+                   "Recettes"
+            ],
+            "date_published": "2020-04-07T18:33:11+02:00",
+            "date_modified": "2020-04-23T20:15:50+02:00"
+        },
+        {
+            "id": "/recette-fantome/",
+            "url": "/recette-fantome/",
+            "title": "Citrouille farcie au chèvre",
+            "summary": "pas de recette aujorudhui dsl",
+            "content_html": "pas de recette aujorudhui dsl",
+            "image": "/media/posts/13/006-Courge.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+                   "Recettes"
+            ],
+            "date_published": "2020-04-07T18:32:52+02:00",
+            "date_modified": "2020-04-23T20:18:23+02:00"
+        },
+        {
+            "id": "/test-no-picture/",
+            "url": "/test-no-picture/",
+            "title": "Style page",
+            "summary": "Heading 2Lien dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et&hellip;",
+            "content_html": "<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1e1uojjkk2\">Heading 2</a>\n<ul>\n<li><a href=\"#mcetoc_1e1uoj9pd0\">Heading 3</a>\n<ul>\n<li><a href=\"#mcetoc_1e3f2cr3s1\">Heading 4</a>\n<ul>\n<li><a href=\"#mcetoc_1e3f2cmb10\">Heading 5</a>\n<ul>\n<li><a href=\"#mcetoc_1e3f2d5mf2\">Heading 6</a></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</div>\n<h2 id=\"mcetoc_1e1uojjkk2\">Heading 2</h2>\n<p><a href=\"/a-mort-les-personnes-agees/\" target=\"_blank\" rel=\"noopener noreferrer\">Lien</a> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<h3 id=\"mcetoc_1e1uoj9pd0\">Heading 3</h3>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<h4 id=\"mcetoc_1e3f2cr3s1\">Heading 4</h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<h5 id=\"mcetoc_1e3f2cmb10\">Heading 5</h5>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<h6 id=\"mcetoc_1e3f2d5mf2\">Heading 6</h6>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<address>adress</address>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<pre>pre</pre>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p><code>code<br></code></p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<blockquote>\n<p>blockquote</p>\n</blockquote>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p class=\"msg msg--info\">info</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p class=\"msg msg--highlight \">highlight</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p class=\"msg msg--success\">success</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p class=\"dropcap\">drop cap</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<ul>\n<li>bullet</li>\n<li>list</li>\n</ul>\n<ol>\n<li>numbered</li>\n<li>list</li>\n</ol>\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>\n<table style=\"width: 803px;\">\n<tbody>\n<tr>\n<td style=\"width: 208px;\">Lorem ipsum dolor</td>\n<td style=\"width: 155px;\">Lorem ipsum dolor</td>\n<td style=\"width: 140.143px;\">Lorem ipsum dolor</td>\n<td style=\"width: 134.857px;\">Lorem ipsum dolor</td>\n<td style=\"width: 160px;\">Lorem ipsum dolor</td>\n</tr>\n<tr>\n<td style=\"width: 208px;\">Lorem ipsum dolor</td>\n<td style=\"width: 155px;\">Lorem ipsum dolor</td>\n<td style=\"width: 140.143px;\">Lorem ipsum dolor</td>\n<td style=\"width: 134.857px;\">Lorem ipsum dolor</td>\n<td style=\"width: 160px;\">Lorem ipsum dolor</td>\n</tr>\n<tr>\n<td style=\"width: 208px;\">Lorem ipsum dolor</td>\n<td style=\"width: 155px;\">Lorem ipsum dolor</td>\n<td style=\"width: 140.143px;\">Lorem ipsum dolor</td>\n<td style=\"width: 134.857px;\">Lorem ipsum dolor</td>\n<td style=\"width: 160px;\">Lorem ipsum dolor</td>\n</tr>\n</tbody>\n</table>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "image": "/media/posts/10/CHOLITAS_WRESTLING_0181_3a-3.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-25T19:17:58+01:00",
+            "date_modified": "2020-03-17T11:49:16+01:00"
+        },
+        {
+            "id": "/recette-au-poulet/",
+            "url": "/recette-au-poulet/",
+            "title": "recette au poulet",
+            "summary": "qui n'aime pas le poulet? ahah personne",
+            "content_html": "qui n'aime pas le poulet? ahah personne",
+            "image": "/media/posts/8/002-Beef-burrito.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+                   "attention pas bon",
+                   "Recettes"
+            ],
+            "date_published": "2020-02-20T23:49:26+01:00",
+            "date_modified": "2020-04-23T20:16:45+02:00"
+        },
+        {
+            "id": "/pourquoi-est-ce-que-elon-musk-ne-collabore-pas-encore-avec-hot-wheel/",
+            "url": "/pourquoi-est-ce-que-elon-musk-ne-collabore-pas-encore-avec-hot-wheel/",
+            "title": "Pourquoi est-ce que Elon Musk ne collabore pas encore avec Hot Wheel?",
+            "summary": "oui pourquoi",
+            "content_html": "oui pourquoi",
+            "image": "/media/posts/7/HomepagePromos_CollectCars_bkgd_tcm986-123730.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+                   "Publications"
+            ],
+            "date_published": "2020-02-16T16:23:03+01:00",
+            "date_modified": "2020-04-16T22:12:24+02:00"
+        },
+        {
+            "id": "/a-mort-les-personnes-agees/",
+            "url": "/a-mort-les-personnes-agees/",
+            "title": "Personnes âgées: attention!",
+            "summary": "Une étude montre que toutes les personnes âgées sont hautement susceptibles de mourir prochainement.",
+            "content_html": "Une étude montre que toutes les personnes âgées sont hautement susceptibles de mourir prochainement.",
+            "image": "/media/posts/6/aging_capitalism.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+                   "Publications"
+            ],
+            "date_published": "2020-02-16T16:20:59+01:00",
+            "date_modified": "2020-04-16T22:12:31+02:00"
+        },
+        {
+            "id": "/devrions-nous-continuez-de-manger-du-platre/",
+            "url": "/devrions-nous-continuez-de-manger-du-platre/",
+            "title": "Devrions-nous continuez de manger du plâtre?",
+            "summary": "Une étude prouverait que le plâtre est plus cancérigène que prévu...",
+            "content_html": "Une étude prouverait que le plâtre est plus cancérigène que prévu...",
+            "image": "/media/posts/5/materiaux-construction-polyvalent-platre-7188-l750-h512.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-16T16:17:09+01:00",
+            "date_modified": "2020-02-16T16:17:09+01:00"
+        },
+        {
+            "id": "/interview-de-jeff-bezos/",
+            "url": "/interview-de-jeff-bezos/",
+            "title": "Interview de Jeff Bezos",
+            "summary": "J'ai rencontré hier Jeff Bezos voici notre échange",
+            "content_html": "J'ai rencontré hier Jeff Bezos voici notre échange",
+            "image": "/media/posts/4/https-_hypebeast.com_image_2020_02_jeff-bezos-most-expensive-home-in-los-angeles-001.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-16T16:14:52+01:00",
+            "date_modified": "2020-02-16T16:14:52+01:00"
+        },
+        {
+            "id": "/escargot-a-la-saucisse/",
+            "url": "/escargot-a-la-saucisse/",
+            "title": "Escargot à la saucisse #vegan #sansescargots #glutenfree",
+            "summary": "Voici une super recette d'escargot à la saucisse ",
+            "content_html": "<p id=\"mcetoc_1e1chloogbc\">Voici une super recette d'escargot à la saucisse</p>\n<table>\n<tbody>\n<tr>\n<td>SAUCISSE SAUCISSE</td>\n<td>test test testtest test testtest test testtest test testtest test test</td>\n<td>ESACARGOTTE</td>\n<td>askjdjdsalk dsalkdsalkjdsa  dsa</td>\n<td>dsalkjd salkj dsalkj lkj dalkj d</td>\n</tr>\n<tr>\n<td>test test test</td>\n<td>SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE </td>\n<td>test test test</td>\n<td>alkjsdlkjdlkad lkjsalkjlkj sadsa  dsa da</td>\n<td> kjdsalkjsadlkj aslkjdas lkjda da lkjd</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p id=\"mcetoc_1e1chloohbp\"> </p>",
+            "image": "/media/posts/3/pizza-escargot-a-la-saucisse.jpeg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+                   "Recettes"
+            ],
+            "date_published": "2020-02-16T16:14:11+01:00",
+            "date_modified": "2020-04-23T20:18:38+02:00"
+        },
+        {
+            "id": "/nora-la-pupute/",
+            "url": "/nora-la-pupute/",
+            "title": "Lasagne cheloue",
+            "summary": "Voici une délicieuse recette de lasagne cheloue",
+            "content_html": "Voici une délicieuse recette de lasagne cheloue",
+            "image": "/media/posts/1/recettes-lasagne-au-boeuf-et-aux-champignons-bs009996-1160x650-pub-71375.jpg",
+            "author": {
+                "name": "Alexandre Zürcher"
+            },
+            "tags": [
+                   "Recettes"
+            ],
+            "date_published": "2020-02-16T13:54:39+01:00",
+            "date_modified": "2020-04-23T20:18:31+02:00"
+        }
+    ]
+}
