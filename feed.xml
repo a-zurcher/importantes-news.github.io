@@ -3,12 +3,64 @@
     <title>importantes news</title>
     <link href="https://a-zurcher.netlify.app/feed.xml" rel="self" />
     <link href="https://a-zurcher.netlify.app" />
-    <updated>2020-04-27T13:18:13+02:00</updated>
+    <updated>2020-04-27T14:00:09+02:00</updated>
     <author>
         <name>Alexandre Zürcher</name>
     </author>
     <id>https://a-zurcher.netlify.app</id>
 
+    <entry>
+        <title>kim jong on est mort</title>
+        <author>
+            <name>Alexandre Zürcher</name>
+        </author>
+        <link href="https://a-zurcher.netlify.app/kim-jong-on-est-mort/"/>
+        <id>https://a-zurcher.netlify.app/kim-jong-on-est-mort/</id>
+            <category term="Publications"/>
+
+        <updated>2020-04-27T13:52:02+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>bladhadsahj</title>
+        <author>
+            <name>Alexandre Zürcher</name>
+        </author>
+        <link href="https://a-zurcher.netlify.app/bladhadsahj/"/>
+        <id>https://a-zurcher.netlify.app/bladhadsahj/</id>
+            <category term="Publications"/>
+
+        <updated>2020-04-27T13:50:44+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Soupe de riz au citron (Vegan)</title>
+        <author>
+            <name>Alexandre Zürcher</name>
+        </author>
+        <link href="https://a-zurcher.netlify.app/soupe-de-riz-au-citron-vegan/"/>
+        <id>https://a-zurcher.netlify.app/soupe-de-riz-au-citron-vegan/</id>
+            <category term="Recettes"/>
+
+        <updated>2020-04-27T13:46:07+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Pizza au Sarrasin (Glutenfree, Lactosefree)</title>
+        <author>
+            <name>Alexandre Zürcher</name>
+        </author>
+        <link href="https://a-zurcher.netlify.app/pizza-au-sarrasin-glutenfree-lactosefree/"/>
+        <id>https://a-zurcher.netlify.app/pizza-au-sarrasin-glutenfree-lactosefree/</id>
+            <category term="Recettes"/>
+
+        <updated>2020-04-27T13:45:41+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Beignet de courgettes et fromage</title>
         <author>
@@ -228,116 +280,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
             <![CDATA[
                     <img src="https://a-zurcher.netlify.app/media/posts/6/aging_capitalism.jpg" alt="" />
                 Une étude montre que toutes les personnes âgées sont hautement susceptibles de mourir prochainement.
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Devrions-nous continuez de manger du plâtre?</title>
-        <author>
-            <name>Alexandre Zürcher</name>
-        </author>
-        <link href="https://a-zurcher.netlify.app/devrions-nous-continuez-de-manger-du-platre/"/>
-        <id>https://a-zurcher.netlify.app/devrions-nous-continuez-de-manger-du-platre/</id>
-
-        <updated>2020-02-16T16:17:09+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://a-zurcher.netlify.app/media/posts/5/materiaux-construction-polyvalent-platre-7188-l750-h512.jpg" alt="" />
-                    Une étude prouverait que le plâtre est plus cancérigène que prévu...
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://a-zurcher.netlify.app/media/posts/5/materiaux-construction-polyvalent-platre-7188-l750-h512.jpg" alt="" />
-                Une étude prouverait que le plâtre est plus cancérigène que prévu...
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Interview de Jeff Bezos</title>
-        <author>
-            <name>Alexandre Zürcher</name>
-        </author>
-        <link href="https://a-zurcher.netlify.app/interview-de-jeff-bezos/"/>
-        <id>https://a-zurcher.netlify.app/interview-de-jeff-bezos/</id>
-
-        <updated>2020-02-16T16:14:52+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://a-zurcher.netlify.app/media/posts/4/https-_hypebeast.com_image_2020_02_jeff-bezos-most-expensive-home-in-los-angeles-001.jpg" alt="" />
-                    J'ai rencontré hier Jeff Bezos voici notre échange
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://a-zurcher.netlify.app/media/posts/4/https-_hypebeast.com_image_2020_02_jeff-bezos-most-expensive-home-in-los-angeles-001.jpg" alt="" />
-                J'ai rencontré hier Jeff Bezos voici notre échange
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Escargot à la saucisse #vegan #sansescargots #glutenfree</title>
-        <author>
-            <name>Alexandre Zürcher</name>
-        </author>
-        <link href="https://a-zurcher.netlify.app/escargot-a-la-saucisse/"/>
-        <id>https://a-zurcher.netlify.app/escargot-a-la-saucisse/</id>
-            <category term="Recettes"/>
-
-        <updated>2020-04-23T20:18:38+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://a-zurcher.netlify.app/media/posts/3/pizza-escargot-a-la-saucisse.jpeg" alt="" />
-                    Voici une super recette d'escargot à la saucisse 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://a-zurcher.netlify.app/media/posts/3/pizza-escargot-a-la-saucisse.jpeg" alt="" />
-                <p id="mcetoc_1e1chloogbc">Voici une super recette d'escargot à la saucisse</p>
-<table>
-<tbody>
-<tr>
-<td>SAUCISSE SAUCISSE</td>
-<td>test test testtest test testtest test testtest test testtest test test</td>
-<td>ESACARGOTTE</td>
-<td>askjdjdsalk dsalkdsalkjdsa  dsa</td>
-<td>dsalkjd salkj dsalkj lkj dalkj d</td>
-</tr>
-<tr>
-<td>test test test</td>
-<td>SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE SAUCISSE </td>
-<td>test test test</td>
-<td>alkjsdlkjdlkad lkjsalkjlkj sadsa  dsa da</td>
-<td> kjdsalkjsadlkj aslkjdas lkjda da lkjd</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<p id="mcetoc_1e1chloohbp"> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Lasagne cheloue</title>
-        <author>
-            <name>Alexandre Zürcher</name>
-        </author>
-        <link href="https://a-zurcher.netlify.app/nora-la-pupute/"/>
-        <id>https://a-zurcher.netlify.app/nora-la-pupute/</id>
-            <category term="Recettes"/>
-
-        <updated>2020-04-23T20:18:31+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://a-zurcher.netlify.app/media/posts/1/recettes-lasagne-au-boeuf-et-aux-champignons-bs009996-1160x650-pub-71375.jpg" alt="" />
-                    Voici une délicieuse recette de lasagne cheloue
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://a-zurcher.netlify.app/media/posts/1/recettes-lasagne-au-boeuf-et-aux-champignons-bs009996-1160x650-pub-71375.jpg" alt="" />
-                Voici une délicieuse recette de lasagne cheloue
             ]]>
         </content>
     </entry>

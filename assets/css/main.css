@@ -716,8 +716,11 @@ article_container{
 }
 
 @media all and (min-width: 37.5em) {
-  .pagination {
-    grid-column: 1/span 2; } }
+  .pagination.index {
+    grid-column: 1/span 2; }
+  .pagination.tag {
+    grid-column: 1/span 3; }
+}
 
 .top {
   -webkit-box-align: center;
