@@ -23,7 +23,7 @@ section {
 
 img {
   height: auto;
-  max-width: 100%;
+  width: 100%;
   vertical-align: top; }
 
 button,
@@ -242,18 +242,6 @@ div.sidebar h6 img{
 
 .featured__container{
     grid-template-columns: repeat(auto-fill,minmax(7rem,1fr));
-}
-
-/* "lazy load" animation */
-img{
-  animation-name:img_load;
-  animation-duration: 1s;
-  animation-iteration-count: 1;
-}
-@keyframes img_load {
- 0% {opacity:0;}
- 20%{opacity:0;}
- 100%{opacity:1;}
 }
 
 @media all and (max-width: 42rem){
